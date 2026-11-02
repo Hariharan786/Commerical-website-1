@@ -373,10 +373,10 @@ footer {
 
 
 
-![Output Screenshot 1](ss1.png)
+![Output Screenshot 1](./ss1.png)
 
 
-![Output Screenshot 2](ss2png)
+![Output Screenshot 2](./ss2png)
 
 ## RESULT
 
