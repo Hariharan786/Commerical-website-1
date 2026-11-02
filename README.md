@@ -1,7 +1,7 @@
 
 # Ex02 Commercial Website
 
-## Date:
+## Date:2/11/26
 
 ## AIM
 
@@ -368,6 +368,15 @@ footer {
 }
 ```
 ## OUTPUT
+
+## OUTPUT
+
+
+
+![Output Screenshot 1](ss1.png)
+
+
+![Output Screenshot 2](ss2png)
 
 ## RESULT
 
